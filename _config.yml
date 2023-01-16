@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Random Thoughts by Glenn Saqui
+title: Staying curious - thoughts by Glenn Saqui
 email: glenn.saqui@gmail
 description: >- # this means to ignore newlines until "baseurl:"
   A location to dump my thoughts on the world.  Bread, engineering manager learnings, and book reviews.
