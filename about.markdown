@@ -8,8 +8,8 @@ permalink: /about/
 
 - Been at FansUnite for 10 years
     - first engineer
-    - built many versions of the platform over the years to try something that would stick
-    - moved into role of engineering manager when it became obvious that there was a need inside of the company to add structure
+    - built many versions of the platform over the years to trying to find something that would stick
+    - moved into role of engineering manager when it became obvious that there was a need inside the company to add structure
         - responsible for bringing structure to the engineering team
         - responsible for hiring all backend developers
         - responsible for hiring and building out the QA team
@@ -19,6 +19,7 @@ permalink: /about/
 - Have been the first employee at three very successful startups - [FansUnite](https://fansunite.com/), [Plumbingonline.ca](https://plumbingonline.ca/), and  [GenoLogics](https://www.linkedin.com/company/genologics-life-sciences-software-inc-/about/) 
 - Polyglot developer (PHP, Kotlin, Groovy, JS, Java, bit of python, bit of nim, bit of golang, bit of Vlang)
 - 5 years being part of an extreme programming team that focused on turning Sky into an agile powerhouse
+  - Full time pair programming doing full stack development
 
 
 ### Running
